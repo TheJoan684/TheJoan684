@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheJoan684
+- 👋 Hi, I’m @Joan Cermeño
 - 👀 I’m interested in ... Full stack developer
 - 🌱 I’m currently learning ... JAVASCRIPT
 - 💞️ I’m looking to collaborate on ... 
