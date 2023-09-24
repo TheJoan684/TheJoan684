@@ -4,8 +4,8 @@
   
 Si deseas saber más acerca de mí, puedes contactarme mediante los siguientes medios:
 
-- !Telegram (https://img.icons8.com/color/48/000000/telegram-app--v5.png)
-- !Gmail (https://img.icons8.com/color/48/000000/gmail-logo.png)
+- *Telegram:* https://t.me/Joan_gabriel
+- *Gmail:* joangabriel684@gmail.com
 
 <!---
 TheJoan684/TheJoan684 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
